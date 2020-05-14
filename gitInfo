@@ -39,6 +39,6 @@ GIT
 
 	git checkout <id-commit | name-of-branch>
 
-## Создание ветки
+## Создание ветки (шаблон указан ниже)
 
 	git branch 76543-azltv-issueDescriptiom
