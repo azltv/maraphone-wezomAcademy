@@ -42,3 +42,11 @@ GIT
 ## Создание ветки (шаблон указан ниже)
 
 	git branch 76543-azltv-issueDescriptiom
+
+## Слияние веток
+
+    git merge <name-of-branche>
+
+## Игонорирование файлов и каталогов
+
+    git ignore
