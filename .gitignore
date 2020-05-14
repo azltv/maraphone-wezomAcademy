@@ -1,1 +1,10 @@
-tmp/
+*.pyc
+__pycache__
+.pytest_cache
+venv/
+node_modules/
+package-lock.json
+.vscode
+.idea
+stepFlow.md
+backend/prj/db.sqlite3
