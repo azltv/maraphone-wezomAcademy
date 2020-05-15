@@ -8,3 +8,4 @@ package-lock.json
 .idea
 stepFlow.md
 backend/prj/db.sqlite3
+workspace-intensive.code-workspace
